@@ -3,10 +3,9 @@
 
 ## Sobre mim
 - Estou interessado em compartilhar o que sei e aprender o que não sei.
-- Estou cursando Sistemas de Informação na Universidade Federal Fluminense.
-- Em paralelo realizo alguns cursos extra curriculares para que me qualifique cada vez mais.
-- Tenho as linguagens C/C++ e Python 3 em nivel intermedário.
-- Outras linguagens ainda estou a aprender.
+- Estou cursando Sistemas de Informação na Universidade Federal Fluminense. Em paralelo realizo alguns cursos extra curriculares para que me qualifique cada vez mais.
+- Tenho as linguagens Python e SQL (mySQL and PostgreSQL) em nivel intermedário.
+- Outras linguagens ainda estou a aprender (Java, R, C++ and JavaScript).
 
 ## Meus contatos
 - [E-mail](brenosilvabraido1998@gmail.com)
@@ -20,10 +19,9 @@
 
 ## About me
 - I'm interested in sharing what I know and learning what I don't know.
-- I'm studying Information Systems at Universidade Federal Fluminense.
-- In parallel, I take some extra curricular courses to qualify myself more and more.
-- I have C/C++ and Python 3 at an intermediate level.
-- Other languages I'm still learning.
+- I'm studying Information Systems at Universidade Federal Fluminense. In parallel, I take some extra curricular courses to qualify myself more and more.
+- I have Python and SQL (mySQL and PostgreSQL) at an intermediate level.
+- Other languages I'm still learning (Java, R, C++ and JavaScript).
 
 ## My contacts
 - [E-mail](brenosilvabraido1998@gmail.com)
