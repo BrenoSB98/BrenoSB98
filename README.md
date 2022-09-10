@@ -1,36 +1,36 @@
-# 👋 Olá, sou Breno Silva Braido
-- @BrenoSB98
+# Olá!! Eu sou Breno Braido 👋
 
-## Sobre mim
-- Estou interessado em compartilhar o que sei e aprender o que não sei.
-- Estou cursando Sistemas de Informação na Universidade Federal Fluminense. Em paralelo realizo alguns cursos extra curriculares para que me qualifique cada vez mais.
-- Tenho a linguagem Python e o Pacote Office em nivel intermedário.
-- Tenho SQL (mySQL and PostgreSQL), Power BI, Linguagem R e Java em nível básico. 
-- Outras linguagens ainda estou aprendendo: C++, C# e JavaScript.
+ * Minha ocupação atual é estudante
+ * Curso Sistemas de Informação na Universidade Federal Fluminense (5º periodo)
+ * Estou estudando Java e C# Orientadas a Objeto
+ * Pronomes: ele/dele
+##
+<div align="center">
+  <a href="https://github.com/BrenoSB98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoSB98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSB98&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
-## Meus contatos
-- [E-mail](brenosilvabraido1998@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/breno-silva-braido-a03767156/)
-- [Instagram](https://www.instagram.com/bbraido2/)
-- [Facebook](https://www.facebook.com/Breno.Braido1998)
-
-
-# 👋 Hello, I'm Breno Silva Braido
-- @BrenoSB98
-
-## About me
-- I'm interested in sharing what I know and learning what I don't know.
-- I'm studying Information Systems at Universidade Federal Fluminense. In parallel, I take some extra curricular courses to qualify myself more and more.
-- I have Python and SQL (mySQL and PostgreSQL) at an intermediate level.
-- Other languages I'm still learning (Java, R, C++ and JavaScript).
-
-## My contacts
-- [E-mail](brenosilvabraido1998@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/breno-silva-braido-a03767156/)
-- [Instagram](https://www.instagram.com/bbraido2/)
-- [Facebook](https://www.facebook.com/Breno.Braido1998)
-
-<!---
-BrenoSB98/BrenoSB98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tecnologias que utilizo 💻   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Breno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Breno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Breno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Breno-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Breno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Breno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Breno-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+</div>
+  
+  ## Meus contatos
+<div> 
+  <a href="https://instagram.com/bbraido2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brenosilvabraido1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bbraido2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/Breno.Braido1998" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/BrenoSB98/BrenoSB98/blob/output/github-contribution-grid-snake.svg)
+  </div>
