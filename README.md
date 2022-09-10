@@ -4,8 +4,9 @@
 ## Sobre mim
 - Estou interessado em compartilhar o que sei e aprender o que não sei.
 - Estou cursando Sistemas de Informação na Universidade Federal Fluminense. Em paralelo realizo alguns cursos extra curriculares para que me qualifique cada vez mais.
-- Tenho as linguagens Python e SQL (mySQL and PostgreSQL) em nivel intermedário.
-- Outras linguagens ainda estou a aprender (Java, R, C++ and JavaScript).
+- Tenho as linguagens Python em nivel intermedário.
+- Tenho SQL (mySQL and PostgreSQL), Linguagem R e Java em nível básico. 
+- Outras linguagens ainda estou aprendendo: C++, C# e JavaScript.
 
 ## Meus contatos
 - [E-mail](brenosilvabraido1998@gmail.com)
