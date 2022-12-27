@@ -1,8 +1,8 @@
 # Olá!! Eu sou Breno Braido 👋
 
  * Minha ocupação atual é estudante
- * Curso Sistemas de Informação na Universidade Federal Fluminense (5º periodo)
- * Estou estudando Java e C# Orientadas a Objeto
+ * Curso Sistemas de Informação na Universidade Federal Fluminense (6º periodo)
+ * Estou estudando C# - Orientada a Objeto e Linguagens para me tornar um Dev. Web em front-end
  * Pronomes: ele/dele
 ##
 <div align="center">
