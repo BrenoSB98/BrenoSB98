@@ -1,9 +1,13 @@
 # Olá!! Eu sou Breno Braido 👋
 
-Olá! Prazer velo no meu perfil. 
+Olá! Prazer velo no meu perfil.
+
 Eu sou Breno, estou cursando o 6º périodo em Sistemas de Informação da Universidade Federal Fluminense, a UFF, no horário da noite.
+
 Este é meu repositório pessoal onde deposito os projetos que realizo e também a resolução de alguns excercicios dos cursos que faço.
+
 Sou apaixonado pela área de dados, meu objetivo é me tornar um ciêntista de dados.
+
 Minha ocupação atual é estudante. Estou fazendo um curso para melhorar meus conhecimentos em python e SQL.
  
 ##
