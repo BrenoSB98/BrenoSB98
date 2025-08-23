@@ -27,6 +27,9 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">  
 </div>
 
+---
+
+## 📌 Projetos em Destaque
 ### 💳 **SimplicityDigitalWallet**  
 Uma **carteira digital** desenvolvida em Java com foco em organização financeira pessoal.  
 - Funcionalidades: cadastro de usuários, transações, histórico e controle de saldo.  
